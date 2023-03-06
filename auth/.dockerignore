@@ -1,0 +1,13 @@
+/__tests__
+/coverage
+/dist
+/node_modules
+.dockerignore
+.env.sample
+.eslintrc.json
+.gitignore
+Dockerfile
+jes.config.js
+LICENCE
+README.md
+
