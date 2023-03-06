@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: auth-configmap
+data:
+  MONGOURI: mongodb://host.minikube.internal:27017/auth
+  PORT: "3000"
