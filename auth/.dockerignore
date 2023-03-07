@@ -1,6 +1,7 @@
 /__tests__
 /coverage
 /dist
+/manifests
 /node_modules
 .dockerignore
 .env.sample
