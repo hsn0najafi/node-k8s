@@ -3,7 +3,7 @@ import cors from "cors";
 import helmet from "helmet";
 import compression from "compression";
 import morgan from "morgan";
-import "dotenv/config";
+// import "dotenv/config";
 
 import { databaseConnection } from "./config/db";
 import apiRoutes from "./routes";
